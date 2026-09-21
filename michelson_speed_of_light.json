@@ -1,0 +1,86 @@
+{
+  "source": "Michelson (1879), Experiment 1; R built-in 'morley' dataset",
+  "description": "Measured speed of light (km/s) from Experiment 1 (compare against the speed of light in air, not vacuum)",
+  "observations": [
+    {
+      "run_id": 1,
+      "measured_speed_kmpersec": 299850
+    },
+    {
+      "run_id": 2,
+      "measured_speed_kmpersec": 299740
+    },
+    {
+      "run_id": 3,
+      "measured_speed_kmpersec": 299900
+    },
+    {
+      "run_id": 4,
+      "measured_speed_kmpersec": 300070
+    },
+    {
+      "run_id": 5,
+      "measured_speed_kmpersec": 299930
+    },
+    {
+      "run_id": 6,
+      "measured_speed_kmpersec": 299850
+    },
+    {
+      "run_id": 7,
+      "measured_speed_kmpersec": 299950
+    },
+    {
+      "run_id": 8,
+      "measured_speed_kmpersec": 299980
+    },
+    {
+      "run_id": 9,
+      "measured_speed_kmpersec": 299980
+    },
+    {
+      "run_id": 10,
+      "measured_speed_kmpersec": 299880
+    },
+    {
+      "run_id": 11,
+      "measured_speed_kmpersec": 300000
+    },
+    {
+      "run_id": 12,
+      "measured_speed_kmpersec": 299980
+    },
+    {
+      "run_id": 13,
+      "measured_speed_kmpersec": 299930
+    },
+    {
+      "run_id": 14,
+      "measured_speed_kmpersec": 299650
+    },
+    {
+      "run_id": 15,
+      "measured_speed_kmpersec": 299760
+    },
+    {
+      "run_id": 16,
+      "measured_speed_kmpersec": 299810
+    },
+    {
+      "run_id": 17,
+      "measured_speed_kmpersec": 300000
+    },
+    {
+      "run_id": 18,
+      "measured_speed_kmpersec": 300000
+    },
+    {
+      "run_id": 19,
+      "measured_speed_kmpersec": 299960
+    },
+    {
+      "run_id": 20,
+      "measured_speed_kmpersec": 299960
+    }
+  ]
+}
